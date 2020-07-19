@@ -13,5 +13,5 @@ The script with generate a file called `google-credentials.json` which holds the
 To add to your application, run:
 
 ```
-heroku buildpacks:set https://github.com/buyersight/heroku-google-application-credentials-buildpack.git -a your-app-name
+heroku buildpacks:set https://github.com/ShreyanshShandilya/heroku-google-application-credentials-buildpack.git -a "your-app-name"
 ```
